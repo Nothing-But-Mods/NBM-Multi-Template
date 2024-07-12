@@ -1,6 +1,6 @@
-package com.cursee.examplemod.platform;
+package com.nbm.examplemod.platform;
 
-import com.cursee.examplemod.platform.services.IPlatformHelper;
+import com.nbm.examplemod.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

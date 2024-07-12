@@ -1,4 +1,4 @@
-package com.cursee.examplemod;
+package com.nbm.examplemod;
 
 public class ExampleMod {
 

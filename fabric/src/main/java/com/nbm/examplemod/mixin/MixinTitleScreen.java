@@ -1,6 +1,6 @@
-package com.cursee.examplemod.mixin;
+package com.nbm.examplemod.mixin;
 
-import com.cursee.examplemod.Constants;
+import com.nbm.examplemod.Constants;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
